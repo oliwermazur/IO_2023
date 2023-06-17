@@ -1,0 +1,3 @@
+C:/Users/krisu/OneDrive/Pulpit/Studia/Piad_Projekt/piad/cmake-build-debug/CMakeFiles/piad.dir
+C:/Users/krisu/OneDrive/Pulpit/Studia/Piad_Projekt/piad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krisu/OneDrive/Pulpit/Studia/Piad_Projekt/piad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
