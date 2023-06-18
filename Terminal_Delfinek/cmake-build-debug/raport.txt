@@ -1,0 +1,10 @@
+ID: 1, Nazwa: Piasek, Stan: 1
+ID: 2, Nazwa: Szklo, Stan: 100
+ID: 3, Nazwa: Cegly, Stan: 500
+ID: 4, Nazwa: Cement, Stan: 80
+ID: 5, Nazwa: Farba, Stan: 200
+ID: 6, Nazwa: Druty, Stan: 1000
+ID: 7, Nazwa: Zaslony, Stan: 60
+ID: 8, Nazwa: Plytki ceramiczne, Stan: 300
+ID: 9, Nazwa: Gwozdzie, Stan: 10000
+ID: 10, Nazwa: Listwy przypodlogowe, Stan: 150
