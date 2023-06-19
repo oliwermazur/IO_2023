@@ -1,3 +1,0 @@
-C:/Users/olive/Desktop/Terminal_Delfinek/cmake-build-debug/CMakeFiles/piad.dir
-C:/Users/olive/Desktop/Terminal_Delfinek/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/olive/Desktop/Terminal_Delfinek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
